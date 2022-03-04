@@ -1,7 +1,7 @@
 # Projet-Snake-FLTK
 Jeu snake créé avec la bibliothèque FLTK (Tkinter)
 
-Jeu Snake créé par Dilien Oeuvrard et son binome.
+Jeu Snake créé par Dilien Oeuvrard et son binome @Lucas-Zaverio.
 Merci de ne pas CTRL + C et CTRL + V pour ensuite le 
 rendre comme projet. 
 
