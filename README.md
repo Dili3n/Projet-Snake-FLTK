@@ -23,3 +23,10 @@ Mais en réalité ce snake contient ~ 500 possibilitées de modes différents !
 
 Grace au menu "options" vous pouvez ou non activer à votre guise une liste de 7 options.
 Qui seront ou non activés entre elles ! 
+
+------------------
+
+
+# Testez le jeu
+
+https://replit.com/@Dili3n/Python-Snake-ULTIMA?v=1
